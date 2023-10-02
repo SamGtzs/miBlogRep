@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: Reseña Scissor Seven
-tags: series
+title: Reseña Gigantes de Acero
+tags: peliculas
 ---
 
 # {{title}}

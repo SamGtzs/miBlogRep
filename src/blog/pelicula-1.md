@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: Reseña Scissor Seven
-tags: series
+title: Reseña Titanes del Pacifico
+tags: peliculas
 ---
 
 # {{title}}

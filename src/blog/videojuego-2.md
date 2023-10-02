@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: Reseña del libro 1
-tags: libros
+title: Reseña Zelda Breath Of The Wild
+tags: videojuegos
 ---
 
 # {{title}}
