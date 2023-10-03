@@ -6,10 +6,8 @@ tags: series
 
 # {{title}}
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque doloremque rem similique asperiores voluptas inventore vero illum eveniet sunt, aut velit incidunt laborum modi atque excepturi praesentium ut veritatis. Facilis.
+Scissor seven al inicio puede ser una serie un poco extraña y sin tanto rumbo en la historia, pero ya avanzando en la historia cambia por completo, aun manteniendo los momentos graciosos y aumentando los momentos de seriedad, es una serie que cambia para bien a lo largo de la historia, además de tener una muy buena animación, recalcando que es una serie china.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque doloremque rem similique asperiores voluptas inventore vero illum eveniet sunt, aut velit incidunt laborum modi atque excepturi praesentium ut veritatis. Facilis.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque doloremque rem similique asperiores voluptas inventore vero illum eveniet sunt, aut velit incidunt laborum modi atque excepturi praesentium ut veritatis. Facilis.
+![ser Feliz]({{ '/static/img/seven.jpg' | url }}) 
 
 [Home]({{ '/' | url }})
