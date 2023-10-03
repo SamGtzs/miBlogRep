@@ -4,7 +4,9 @@ title: Mi Blog Sam
 ---
 
 # {{ title }}
+Soy Samuel Gutierrez Sanchez , amante del contenido multimedia y de los videojuegos, lento para todo tipo de cosas
 
+![ser Feliz]({{ '/static/img/misa.jpg' | url }}) 
 
 
 [Acerca]({{ '/acerca' | url }})
