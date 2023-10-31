@@ -52,5 +52,19 @@
 </ul>
 
     <script src="/miBlogRep/static/js/main.js" type="module"></script>
+
+    <body>
+    <h1>Iniciar sesion</h1>  
+
+    <form method= "POST" action="home.phm">
+     <label for="user">user:</label>
+     <input type="text" name="user" id= "user"/>
+     <br />
+
+     <input type="submit" value="iniciar">
+
+    </form>
+
+    </body>
   </body>
 </html>
